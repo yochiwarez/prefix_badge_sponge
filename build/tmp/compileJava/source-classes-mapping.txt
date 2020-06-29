@@ -1,0 +1,6 @@
+badgePrefix/Config.java
+ badgePrefix.Config
+ badgePrefix.Config$Prefix
+badgePrefix/Badge.java
+ badgePrefix.Badge
+ badgePrefix.Badge$1
